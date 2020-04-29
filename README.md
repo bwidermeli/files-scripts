@@ -19,3 +19,5 @@ To run the server and obtain the "pretty" server list:
 node displayFiles.js
 ```
 > Then go to http://localhost:3000
+
+> If you want to download all PDFs from this html, you can install this extension [Batch Link Downloader](https://chrome.google.com/webstore/detail/batch-link-downloader/aiahkbnnpafepcgnhhecilboebmmolnn/related)
