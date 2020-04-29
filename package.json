@@ -1,0 +1,18 @@
+{
+  "name": "open-links",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "casperjs": "^1.1.4",
+    "casperjs-better-download": "^1.0.5",
+    "install": "^0.13.0",
+    "node-html-parser": "^1.2.16",
+    "npm": "^6.14.4"
+  }
+}
