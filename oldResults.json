@@ -1,0 +1,483 @@
+{
+  "files": [
+    { "fileName": "Fundamentals of Power Electronics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2Fb100747.pdf" },
+    { "fileName": "Handbook of the Life Course", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2Fb100507.pdf" },
+    { "fileName": "All of Statistics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-21736-9.pdf" },
+    {
+      "fileName": "Social Anxiety and Social Phobia in Youth",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2Fb99417.pdf"
+    },
+    { "fileName": "Discrete Mathematics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2Fb97469.pdf" },
+    { "fileName": "Developmental Neurobiology", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F0-387-28117-7.pdf" },
+    {
+      "fileName": "Intuitive Probability and Random Processes Using MATLAB®",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2Fb104645.pdf"
+    },
+    {
+      "fileName": "Handbook of Disaster Research",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-32353-4.pdf"
+    },
+    {
+      "fileName": "Handbook of the Sociology of Gender",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F0-387-36218-5.pdf"
+    },
+    { "fileName": "Handbook of Sociological Theory", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F0-387-36274-6.pdf" },
+    {
+      "fileName": "Clinical Neuroanatomy: A Neurobehavioral Approach",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-36601-2.pdf"
+    },
+    { "fileName": "Acquired Brain Injury", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-37575-5.pdf" },
+    { "fileName": "Numerical Optimization", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-40065-5.pdf" },
+    {
+      "fileName": "Handbook Of Biological Confocal Microscopy",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-45524-2.pdf"
+    },
+    { "fileName": "Ceramic Materials", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-46271-4.pdf" },
+    {
+      "fileName": "Principles of Fluorescence Spectroscopy",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-46312-4.pdf"
+    },
+    { "fileName": "Fundamentals of Biomechanics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-49312-1.pdf" },
+    {
+      "fileName": "Primer on the Rheumatic Diseases",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-68566-3.pdf"
+    },
+    {
+      "fileName": "International Handbook of Historical Archaeology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-72071-5.pdf"
+    },
+    { "fileName": "Database Marketing", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-72579-6.pdf" },
+    { "fileName": "Composite Materials", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-74365-3.pdf" },
+    { "fileName": "Time Series Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-75959-3.pdf" },
+    {
+      "fileName": "Transmission Electron Microscopy",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-76501-3.pdf"
+    },
+    {
+      "fileName": "Handbook of Quantitative Criminology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-77650-7.pdf"
+    },
+    { "fileName": "Plant Physiological Ecology", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-78341-3.pdf" },
+    {
+      "fileName": "Introductory Statistics with R",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-79054-1.pdf"
+    },
+    {
+      "fileName": "The Elements of Statistical Learning",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-84858-7.pdf"
+    },
+    {
+      "fileName": "Psychology, Religion, and Spirituality",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-87573-6.pdf"
+    },
+    {
+      "fileName": "Introductory Time Series with R",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-88698-5.pdf"
+    },
+    { "fileName": "Child Neuropsychology", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-88963-4.pdf" },
+    { "fileName": "A Beginner’s Guide to R", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-0-387-93837-0.pdf" },
+    {
+      "fileName": "Geomorphology of Desert Environments",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4020-5719-9.pdf"
+    },
+    { "fileName": "The Joy of Science", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6099-1.pdf" },
+    {
+      "fileName": "Fatigue of Structures and Materials",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6808-9.pdf"
+    },
+    { "fileName": "Essential Astrophysics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-35963-7.pdf" },
+    {
+      "fileName": "Introduction to Evolutionary Computing",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-44874-8.pdf"
+    },
+    { "fileName": "Data Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-03762-2.pdf" },
+    {
+      "fileName": "International Perspectives on Psychotherapy",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-56194-3.pdf"
+    },
+    { "fileName": "Electrical Machines", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-0400-2.pdf" },
+    { "fileName": "Mechanics and Thermodynamics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-27877-3.pdf" },
+    { "fileName": "Applied Behavior Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-44794-0.pdf" },
+    {
+      "fileName": "Reading, Writing, and Proving",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9479-0.pdf"
+    },
+    {
+      "fileName": "Linear and Nonlinear Programming",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-18842-3.pdf"
+    },
+    {
+      "fileName": "Introduction to Partial Differential Equations",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-48936-0.pdf"
+    },
+    { "fileName": "Energy Storage", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-21239-5.pdf" },
+    { "fileName": "Metabolism of Human Diseases", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-7091-0715-7.pdf" },
+    { "fileName": "Sensory Evaluation of Food", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6488-5.pdf" },
+    {
+      "fileName": "Fundamentals of Robotic Mechanical Systems",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-01851-5.pdf"
+    },
+    {
+      "fileName": "Integrative Human Biochemistry",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-3058-6.pdf"
+    },
+    {
+      "fileName": "Philosophy of Science for Scientists",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-26551-3.pdf"
+    },
+    { "fileName": "Particles and Nuclei", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-46321-5.pdf" },
+    {
+      "fileName": "Data Structures and Algorithms with Python",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-13072-9.pdf"
+    },
+    { "fileName": "Integrated Neuroscience", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4615-1077-2.pdf" },
+    {
+      "fileName": "Introduction to Partial Differential Equations",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-02099-0.pdf"
+    },
+    { "fileName": "Microeconomics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-37434-0.pdf" },
+    { "fileName": "System Dynamics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-981-10-2045-2.pdf" },
+    { "fileName": "Cosmology for the Curious", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-57040-2.pdf" },
+    {
+      "fileName": "Methods of Mathematical Modelling",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-23042-9.pdf"
+    },
+    {
+      "fileName": "Introduction to Logic Circuits & Logic Design with Verilog",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-53883-9.pdf"
+    },
+    { "fileName": "Structural Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-90-481-2516-6.pdf" },
+    {
+      "fileName": "Engineering Flow and Heat Exchange",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4899-7454-9.pdf"
+    },
+    {
+      "fileName": "Enterprise Risk Management Models",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-53785-5.pdf"
+    },
+    {
+      "fileName": "Reactive Power Control in AC Power Systems",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-51118-4.pdf"
+    },
+    { "fileName": "Principles of Microeconomics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-57589-6.pdf" },
+    {
+      "fileName": "Additive Manufacturing Technologies",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-1120-9.pdf"
+    },
+    { "fileName": "Principles of Physics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-23026-4.pdf" },
+    { "fileName": "Fundamentals of Biomechanics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-44738-4.pdf" },
+    {
+      "fileName": "Irrigation and Drainage Engineering",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-05699-9.pdf"
+    },
+    { "fileName": "LaTeX in 24 Hours", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-47831-9.pdf" },
+    { "fileName": "Psychology of Perception", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-31791-5.pdf" },
+    {
+      "fileName": "Extragalactic Astronomy and Cosmology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-54083-7.pdf"
+    },
+    { "fileName": "Automata and Computability", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4612-1844-9.pdf" },
+    { "fileName": "The Algorithm Design Manual", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-84800-070-4.pdf" },
+    { "fileName": "Chemical Thermodynamics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-19864-9.pdf" },
+    { "fileName": "Computational Physics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-61088-7.pdf" },
+    {
+      "fileName": "Introduction to Statistics and Data Analysis ",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-46162-5.pdf"
+    },
+    { "fileName": "Grammar for Teachers", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-33916-0.pdf" },
+    { "fileName": "Time Series Econometrics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-32862-1.pdf" },
+    { "fileName": "Electrochemistry", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-30250-3.pdf" },
+    { "fileName": "Classical Fourier Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1194-3.pdf" },
+    { "fileName": "Human Chromosomes", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4613-0139-4.pdf" },
+    { "fileName": "Phylogenomics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-54064-1.pdf" },
+    {
+      "fileName": "Quantum Theory for Mathematicians",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7116-5.pdf"
+    },
+    { "fileName": "Evidence-Based Critical Care", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-43341-7.pdf" },
+    {
+      "fileName": "Clinical Assessment of Child and Adolescent Personality and Behavior",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-0641-0.pdf"
+    },
+    {
+      "fileName": "Design Research in Information Systems",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-5653-8.pdf"
+    },
+    {
+      "fileName": "Intermediate Physics for Medicine and Biology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-12682-1.pdf"
+    },
+    { "fileName": "Principles of Data Mining", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4471-7307-6.pdf" },
+    { "fileName": "Fundamental Astronomy", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-53045-0.pdf" },
+    {
+      "fileName": "Fundamentals of Business Process Management",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-33143-5.pdf"
+    },
+    {
+      "fileName": "Brownian Motion, Martingales, and Stochastic Calculus ",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-31089-3.pdf"
+    },
+    { "fileName": "UML @ Classroom", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-12742-2.pdf" },
+    {
+      "fileName": "Design and Analysis of Experiments",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-52250-0.pdf"
+    },
+    {
+      "fileName": "Foundations for Designing User-Centered Systems",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5134-0.pdf"
+    },
+    {
+      "fileName": "Handbook of Consumer Finance Research",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-28887-1.pdf"
+    },
+    {
+      "fileName": "Principles of Terrestrial Ecosystem Ecology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9504-9.pdf"
+    },
+    {
+      "fileName": "Applied Multivariate Statistical Analysis",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-45171-7.pdf"
+    },
+    {
+      "fileName": "Strategic International Management",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-8349-6331-4.pdf"
+    },
+    { "fileName": "Computer Vision", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-84882-935-0.pdf" },
+    { "fileName": "Engineering Electromagnetics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-07806-9.pdf" },
+    { "fileName": "Data Mining", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-14142-8.pdf" },
+    {
+      "fileName": "International Trade Theory and Policy",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-37314-5.pdf"
+    },
+    { "fileName": "Alternative Energy Sources", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-20951-2.pdf" },
+    {
+      "fileName": "Introduction to Electronic Commerce and Social Commerce",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-50091-1.pdf"
+    },
+    { "fileName": "Computational Geometry", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-540-77974-2.pdf" },
+    {
+      "fileName": "Elementary Mechanics Using Python",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-19596-4.pdf"
+    },
+    { "fileName": "Energy Economics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-53022-1.pdf" },
+    { "fileName": "Robotics, Vision and Control", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-54413-7.pdf" },
+    { "fileName": "Acid-Base Diagrams", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-37902-4.pdf" },
+    {
+      "fileName": "Brewing Science: A Multidisciplinary Approach",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-46394-0.pdf"
+    },
+    { "fileName": "Learning Landscape Ecology", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-6374-4.pdf" },
+    { "fileName": "Probability", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4612-4374-8.pdf" },
+    { "fileName": "Modeling Life", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-59731-7.pdf" },
+    { "fileName": "Engineering Mechanics 1", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-30319-7.pdf" },
+    { "fileName": "Business Statistics for Competitive Advantage with Excel 2016 ", "downloadLink": "https://link.springer.comnull" },
+    {
+      "fileName": "Principles of Polymer Chemistry",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-2212-9.pdf"
+    },
+    {
+      "fileName": "A Primer on Scientific Programming with Python",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-49887-3.pdf"
+    },
+    {
+      "fileName": "Climate Change Science: A Modern Synthesis",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-94-007-5757-8.pdf"
+    },
+    {
+      "fileName": "Solar PV and Wind Energy Conversion Systems",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-14941-7.pdf"
+    },
+    {
+      "fileName": "Statistical Analysis and Data Display",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2122-5.pdf"
+    },
+    {
+      "fileName": "Business Process Management Cases",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-58307-5.pdf"
+    },
+    { "fileName": "Elementary Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6271-2.pdf" },
+    { "fileName": "Cryptography Made Simple", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-21936-3.pdf" },
+    { "fileName": "Fluid Dynamics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09351-2.pdf" },
+    { "fileName": "Social Media Management", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-21990-5.pdf" },
+    {
+      "fileName": "Statistics in Criminal Justice",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-9170-5.pdf"
+    },
+    {
+      "fileName": "Supply Chain Management and Advanced Planning",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-55309-7.pdf"
+    },
+    { "fileName": "Probability Theory", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5201-9.pdf" },
+    {
+      "fileName": "Statistics and Data Analysis for Financial Engineering",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2614-5.pdf"
+    },
+    {
+      "fileName": "Readings in Formal Epistemology",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-20451-2.pdf"
+    },
+    {
+      "fileName": "Differential Equations and Their Applications",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4612-4360-1.pdf"
+    },
+    {
+      "fileName": "Nanotechnology: Principles and Practices",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-09171-6.pdf"
+    },
+    {
+      "fileName": "Epidemiological Research: Terms and Concepts",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-94-007-1171-6.pdf"
+    },
+    { "fileName": "Multinational Management", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-23012-2.pdf" },
+    {
+      "fileName": "Partial Differential Equations",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-4809-9.pdf"
+    },
+    {
+      "fileName": "Bayesian and Frequentist Regression Methods",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-0925-1.pdf"
+    },
+    {
+      "fileName": "Strategic International Management",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-658-07884-3.pdf"
+    },
+    {
+      "fileName": "Basic Concepts in Computational Physics",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-27265-8.pdf"
+    },
+    { "fileName": "Eye Tracking Methodology", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-57883-5.pdf" },
+    { "fileName": "Mathematical Physics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-01195-0.pdf" },
+    {
+      "fileName": "Correctional Counseling and Treatment",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-54349-9.pdf"
+    },
+    {
+      "fileName": "Thermodynamics and Energy Conversion",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-662-43715-5.pdf"
+    },
+    { "fileName": "The Action Research Planner", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-981-4560-67-2.pdf" },
+    {
+      "fileName": "Stochastic Processes and Calculus",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-23428-1.pdf"
+    },
+    {
+      "fileName": "Statistical Analysis of Clinical Data on a Pocket Calculator",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-94-007-1211-9.pdf"
+    },
+    {
+      "fileName": "Clinical Data Analysis on a Pocket Calculator",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-27104-0.pdf"
+    },
+    {
+      "fileName": "The Data Science Design Manual",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-55444-0.pdf"
+    },
+    {
+      "fileName": "An Introduction to Machine Learning",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-63913-0.pdf"
+    },
+    {
+      "fileName": "Guide to Discrete Mathematics",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-44561-8.pdf"
+    },
+    { "fileName": "Petroleum Geoscience", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-34132-8.pdf" },
+    {
+      "fileName": "Structure Determination by X-ray Crystallography",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-3954-7.pdf"
+    },
+    {
+      "fileName": "Introduction to Time Series and Forecasting",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-29854-2.pdf"
+    },
+    {
+      "fileName": "Principles of Mobile Communication",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-55615-4.pdf"
+    },
+    { "fileName": "Cardiovascular Biomechanics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-46407-7.pdf" },
+    {
+      "fileName": "Introduction to Smooth Manifolds",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9982-5.pdf"
+    },
+    { "fileName": "Taxation in European Union", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-53919-5.pdf" },
+    {
+      "fileName": "Essentials of Cerebellum and Cerebellar Disorders",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-24551-5.pdf"
+    },
+    {
+      "fileName": "Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-981-10-1802-2.pdf"
+    },
+    {
+      "fileName": "Multivariate Calculus and Geometry",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4471-6419-7.pdf"
+    },
+    {
+      "fileName": "Statistics and Analysis of Scientific Data",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-6572-4.pdf"
+    },
+    { "fileName": "Modelling Computing Systems", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-84800-322-4.pdf" },
+    { "fileName": "Search Methodologies", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6940-7.pdf" },
+    { "fileName": "Representation Theory", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4612-0979-9.pdf" },
+    { "fileName": "Linear Algebra Done Right", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-11080-6.pdf" },
+    {
+      "fileName": "Stellar Structure and Evolution",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-30304-3.pdf"
+    },
+    {
+      "fileName": "Evolutionary Thinking in Medicine",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-29716-3.pdf"
+    },
+    { "fileName": "Understanding Cryptography", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-04101-3.pdf" },
+    { "fileName": "Linear Algebra", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-24346-7.pdf" },
+    { "fileName": "Algebra", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4613-0041-0.pdf" },
+    { "fileName": "Understanding Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2712-8.pdf" },
+    { "fileName": "Plate Tectonics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-540-76504-2.pdf" },
+    { "fileName": "Linear Programming", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7630-6.pdf" },
+    {
+      "fileName": "The Nature of Scientific Knowledge",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-33405-9.pdf"
+    },
+    { "fileName": "Leadership Today", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-31036-7.pdf" },
+    {
+      "fileName": "Physics of Semiconductor Devices",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1151-6.pdf"
+    },
+    {
+      "fileName": "Corporate Social Responsibility",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-40975-2.pdf"
+    },
+    { "fileName": "Electronic Commerce", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-10091-3.pdf" },
+    {
+      "fileName": "Foundations of Analytical Chemistry",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-62872-1.pdf"
+    },
+    { "fileName": "Life Cycle Assessment", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-56475-3.pdf" },
+    { "fileName": "Computational Physics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-00401-3.pdf" },
+    { "fileName": "Handbook of LGBT Elders", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-03623-6.pdf" },
+    {
+      "fileName": "Handbook of Cardiac Anatomy, Physiology, and Devices",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-19464-6.pdf"
+    },
+    { "fileName": "Quantum Mechanics", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-642-20556-9.pdf" },
+    {
+      "fileName": "Understanding Statistics Using R",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6227-9.pdf"
+    },
+    { "fileName": "Mass Spectrometry", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-54398-7.pdf" },
+    {
+      "fileName": "Statistical Mechanics for Engineers",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-13809-1.pdf"
+    },
+    { "fileName": "The Gastrointestinal System", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-94-017-8771-0.pdf" },
+    {
+      "fileName": "Additive Manufacturing Technologies",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2113-3.pdf"
+    },
+    {
+      "fileName": "Magnetic Interactions in Molecules and Solids",
+      "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-3-319-22951-5.pdf"
+    },
+    { "fileName": "Electricity and Magnetism", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-4-431-54526-2.pdf" },
+    { "fileName": "Survival Analysis", "downloadLink": "https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6646-9.pdf" }
+  ]
+}
